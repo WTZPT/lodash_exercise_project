@@ -8,7 +8,7 @@ const {
 test('forEach',(t)=>{
     //let res = forEach();
     let  res = forEachRight();
-    console.log(res)
+   // console.log(res)
     t.pass()
 })
 
